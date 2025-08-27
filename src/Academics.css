@@ -1,0 +1,39 @@
+.academic_title {
+    padding-left: 80px;
+    font-weight: "bold";
+}
+
+.acad_hat {
+    width: 320px;
+    height: 380px;
+    margin: 20px 120px;
+}
+
+.acad_style {
+    display: flex;
+    flex-direction: column;
+    margin: 150px 10%;
+    padding: 20px 0px;
+}
+
+.academic_flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.detail {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 10px;
+}
+
+.institute_text {
+    display: flex;
+    flex-direction: column;
+}
+
+.institute_logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
