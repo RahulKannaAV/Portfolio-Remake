@@ -1,0 +1,24 @@
+.paper_style {
+    display: flex;
+    flex-direction: row;
+    margin: 150px 10%;
+}
+
+.text_part {
+    width: 60%;
+}
+
+.image_part {
+    width: 320px;
+    height: 380px;
+    padding-right: 70px;
+    margin-right: 70px;
+    background-color: black;
+}
+
+.intro_text {
+    color: white;
+    text-align: center;
+    margin-left: 80px;
+    padding-top: 60px;
+}
